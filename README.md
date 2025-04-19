@@ -4,7 +4,7 @@ An automated farming bot designed to interact with the Taker Sowing Protocol. Th
 
 ## Register
 
-- Link : https://sowing.taker.xyz/?start=B81Z0GDR
+- Link : [https://sowing.taker.xyz](https://sowing.taker.xyz/?start=866GC4JA)
 
 ## Features
 
